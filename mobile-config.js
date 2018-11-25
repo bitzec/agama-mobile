@@ -98,7 +98,7 @@ App.accessRule('http://explorer.zclmine.pro');
 App.accessRule('https://explorer.snowgem.org');
 App.accessRule('https://myriadexplorer.com');
 App.accessRule('http://explorer.bitcore.cc');
-App.accessRule('https://explorer.bitcoinz.site');
+App.accessRule('http://35.237.153.178:3001/insight/');
 App.accessRule('http://www.fuzzbawls.pw');
 App.accessRule('https://chain.sibcoin.net');
 App.accessRule('https://explorer.zcha.in');

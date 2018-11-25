@@ -293,7 +293,7 @@ const lang = {
       HODLC: 'Hodl coin',
       BTX: 'Bitcore',
       QTUM: 'Qtum',
-      BTCZ: 'BitcoinZ',
+      BZC: 'Bitzec',
       KMD: 'Komodo',
       CHIPS: 'Chips',
       MZC: 'Mazacoin',

@@ -47,11 +47,11 @@ export const convertURIToImageData = (URI) => {
     if (URI === null) {
       return reject();
     }
-    
+
     const canvas = document.createElement('canvas');
     const context = canvas.getContext('2d');
     const image = new Image();
-    
+
     image.addEventListener('load', () => {
       canvas.width = image.width;
       canvas.height = image.height;
@@ -117,13 +117,13 @@ export const _coinsList = [
   'FJC',
   'GAME',
   'BCBC',
-  'BTCZ',
+  'BZC',
   'QTUM',
   'DNR',
   'XZC',
   'FTC',
   'GBX',
-  //'NINJA',  
+  //'NINJA',
   //'SHARK',
   //'MVP',
   //'CEAL',
